@@ -2,4 +2,6 @@ import tkinter
 
 print("Hello World")
 print("hello")
-print("Typing is still done for testing purposes")
+
+print(4)
+print(7)
